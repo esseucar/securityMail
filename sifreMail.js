@@ -19,8 +19,8 @@ var transporter = nodemailer.createTransport(
     {
         service: 'Hotmail',
         auth: {
-            user: 'esseucar@hotmail.com',
-            pass: 'esra0746'
+            user: '******@hotmail.com',
+            pass: '*******'
         }
     }
 );
